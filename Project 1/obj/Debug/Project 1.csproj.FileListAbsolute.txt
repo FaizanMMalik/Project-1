@@ -1,0 +1,15 @@
+E:\work\Project 1\Project 1\bin\Debug\Project 1.exe.config
+E:\work\Project 1\Project 1\bin\Debug\Project 1.exe
+E:\work\Project 1\Project 1\bin\Debug\Project 1.pdb
+E:\work\Project 1\Project 1\obj\Debug\Project 1.csproj.AssemblyReference.cache
+E:\work\Project 1\Project 1\obj\Debug\Project_1.Login.resources
+E:\work\Project 1\Project 1\obj\Debug\Project_1.Properties.Resources.resources
+E:\work\Project 1\Project 1\obj\Debug\Project 1.csproj.GenerateResource.cache
+E:\work\Project 1\Project 1\obj\Debug\Project 1.csproj.CoreCompileInputs.cache
+E:\work\Project 1\Project 1\obj\Debug\Project 1.exe
+E:\work\Project 1\Project 1\obj\Debug\Project 1.pdb
+E:\work\Project 1\Project 1\obj\Debug\Project_1.Contact.resources
+E:\work\Project 1\Project 1\obj\Debug\Project_1.Service.resources
+E:\work\Project 1\Project 1\obj\Debug\Project_1.TT.resources
+E:\work\Project 1\Project 1\obj\Debug\Project_1.VC.resources
+E:\work\Project 1\Project 1\obj\Debug\Project_1.Form1.resources
